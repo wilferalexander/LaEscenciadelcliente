@@ -4,6 +4,7 @@ Revelando la Esencia del Cliente
 #aluraChallengeEsenciaDelCliente.
 
 
+![Challenge_3](https://github.com/wilferalexander/LaEscenciadelcliente/assets/16104315/fa326ce7-ed75-4107-b797-29ff75369f1d)
 
 
 Descripción
