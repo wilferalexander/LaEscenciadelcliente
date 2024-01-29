@@ -1,6 +1,10 @@
 # La Escencia del cliente
 Revelando la Esencia del Cliente
 
+#aluraChallengeEsenciaDelCliente.
+
+
+
 
 Descripción
 La exploración visual de datos permite a los científicos de datos examinar y explorar grandes volúmenes de datos de manera intuitiva y eficiente. Al representar los datos visualmente, se pueden identificar características importantes, como valores atípicos, distribuciones, correlaciones y agrupaciones, que podrían no ser evidentes al examinar solo los números o las tablas de datos.
